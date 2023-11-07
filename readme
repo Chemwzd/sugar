@@ -1,0 +1,6 @@
+SUpramolecular recoGnition prediction in porous moleculAR materials
+
+sugar
+
+V0.0.3未变更引用，但trajectory类是旧版本
+将V0.0.4的trajectory类引用到V0.0.3中即为最新版本

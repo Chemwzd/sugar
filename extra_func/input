@@ -1,0 +1,10 @@
+%nprocshared = 48
+%mem = 50GB
+%chk=/public/spst/home/xuzzh/wzd/COFs/gaussian1/1/opt/recal/1_opt.chk
+#p B3LYP/Def2SVP EmpiricalDispersion=GD3BJ opt=readopt int=acc2e=12
+
+1 opt
+
+0 1
+N          	30.9814       	38.2604       	35.6557
+O          	27.0274       	37.4820       	35.4731
